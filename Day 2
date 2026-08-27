@@ -1,0 +1,28 @@
+Data Types:
+  Integer int ( whole numbers)
+  Float float ( decimal numbers)
+  Character char(letters)
+  String String (words and letters)
+  Double double (higher memory size than float)
+  Long long (higher memory than int)
+  Boolean boolean ( only true or false)
+  byte byte
+
+
+
+day 2 programing:
+    public static void main(String[] args) {
+		int a= 10;
+		int b=20;
+		float c;
+		boolean isAvailable=true;
+		char letter = 'a';
+		String word = "Harish";
+		c=(float)a/b;
+		System.out.println(isAvailable);
+		System.out.println(letter);
+		System.out.println(word);
+		System.out.println(c);
+		
+
+	}
