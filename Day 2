@@ -23,6 +23,5 @@ day 2 programing:
 		System.out.println(letter);
 		System.out.println(word);
 		System.out.println(c);
-		
 
 	}
