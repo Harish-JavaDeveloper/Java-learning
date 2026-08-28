@@ -7,4 +7,8 @@ Operatiors :
   <= (lessthen or equal to)
   >= (greaterthen or equal to)
   != (not equal to)
-  
+If Else statements
+  If (condition)
+  else if (if condition false else statement wlll execute)
+  nested if (if inside another if)
+  else (if and else if conditions are false else statementwill execute)
