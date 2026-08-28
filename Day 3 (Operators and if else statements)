@@ -1,0 +1,10 @@
+Operatiors :
+  ++ (incremental operator)
+  -- (decremental operator)
+  == (to check two value are equal)
+  < (lessthen)
+  > (greaterthen)
+  <= (lessthen or equal to)
+  >= (greaterthen or equal to)
+  != (not equal to)
+  
