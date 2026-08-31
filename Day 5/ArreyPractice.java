@@ -3,7 +3,7 @@ package practce;
 public class ArreyPractice {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		int[] arr= new int[5];
 		float[] arr1= new float[] {1.1f,2.2f,3.3f,4.4f,5.5f};
 		String[] word= new String[5] ;
