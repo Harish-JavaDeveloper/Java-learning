@@ -42,9 +42,8 @@ public class MovingZeroToEndOfArray {
 			}
 			 else {
 			        start++;
-			        if (end <= start) {
-			        	end = start + 1;
-			        }
+				 	end++;
+			       
 			    }
 			
 		}
