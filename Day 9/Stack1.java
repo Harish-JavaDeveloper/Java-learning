@@ -13,29 +13,6 @@ public class Stack1 {
 	st.push(40);
 	st.pop();
 	System.out.println(st);
-	System.out.println(st.peek());
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	System.out.println(st.peek());	
 	}
-	
-	
-	
-	
-	
-
 }
