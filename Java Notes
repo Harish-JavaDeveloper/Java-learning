@@ -1,3 +1,9 @@
+If condition: to check condition is true or false. if it is true it will enter the if block.
+
+else if: if coditon is false it will enter to else if. (If you mentioned in else if) 
+
+else: if and else if codition is false it will search else block if it exist else block will execute.
+
 Set: does not allow duplicate. if any duplicates are exist it'll automatically remove.
      no index,cant retrive using index. it is not maintaine order.
 
