@@ -8,6 +8,8 @@ Arrey : collection of data. it can be int,string,decimal values and letters or s
 
 for Loop: for loop work flow is iteration basis. it will check the condition and sametime it will do increament operation.
 
+while loop: same as for loop but it does need increment manually it will do icreament it self. while block will excecute until conditon false.
+
 List : list is a interface. you can't create object directly. same as array but you don't need to specify the size and it has dynamic memory,
        so it consume low memory compared to arrey. common methods .add(),.remove(),.get(),.set(),.size(),.isempty(). and it has array list 
        and linked list. ordered insertion.
@@ -25,10 +27,10 @@ Set: does not allow duplicate. if any duplicates are exist it'll automatically r
 
       Linked HashSet : it maintaine the order.
 
-       Treeset : ordered insertion and does allow duplicate. it willallow null values if you try to insert and 
-                 run it throw null pointer exception
+      Treeset : ordered insertion and does allow duplicate. it willallow null values if you try to insert and 
+                 run it throw null pointer exception.
 
-                            (.peek() to check 1st element)
+       (.peek() to check 1st element)
 queue : 1st in 1st out
         adding method .offer();
         removing method .poll();
