@@ -9,14 +9,26 @@ Arrey : collection of data. it can be int,string,decimal values and letters or s
 for Loop: for loop work flow is iteration basis. it will check the condition and sametime it will do increament operation.
 
 List : list is a interface. you can't create object directly. same as array but you don't need to specify the size and it has dynamic memory,
-       so it consume low memory compared to arrey.
+       so it consume low memory compared to arrey. common methods .add(),.remove(),.get(),.set(),.size(),.isempty(). and it has array list 
+       and linked list. ordered insertion.
+
+       Array list: same as arrey but you can't remove the value in arrey. but arrey list you can add, remove and modify whenever you want. 
+                   it use dynamic memory so it consume low memory compared to arrey.
+
+       linked list : same as arrey list. (see day 8 coding you'll get idea)
+
 
 Set: does not allow duplicate. if any duplicates are exist it'll automatically remove.
      no index,cant retrive using index. it is not maintaine order.
 
-Linked HashSet : it maintaine the order.
+      Hashset: fast and unordered
 
-(.peek() to check 1st element)
+      Linked HashSet : it maintaine the order.
+
+       Treeset : ordered insertion and does allow duplicate. it willallow null values if you try to insert and 
+                 run it throw null pointer exception
+
+                            (.peek() to check 1st element)
 queue : 1st in 1st out
         adding method .offer();
         removing method .poll();
