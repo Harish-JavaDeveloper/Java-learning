@@ -4,6 +4,13 @@ else if: if coditon is false it will enter to else if. (If you mentioned in else
 
 else: if and else if codition is false it will search else block if it exist else block will execute.
 
+Arrey : collection of data. it can be int,string,decimal values and letters or symble. arrey works index basis and index start from 0.
+
+for Loop: for loop work flow is iteration basis. it will check the condition and sametime it will do increament operation.
+
+List : list is a interface. you can't create object directly. same as array but you don't need to specify the size and it has dynamic memory,
+       so it consume low memory compared to arrey.
+
 Set: does not allow duplicate. if any duplicates are exist it'll automatically remove.
      no index,cant retrive using index. it is not maintaine order.
 
