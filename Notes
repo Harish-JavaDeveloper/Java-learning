@@ -1,27 +1,27 @@
 Set: does not allow duplicate. if any duplicates are exist it'll automatically remove.
-no index,cant retrive using index. it is not maintaine order.
+     no index,cant retrive using index. it is not maintaine order.
 
 Linked HashSet : it maintaine the order.
 
-(.peak() to check 1st element)
+(.peek() to check 1st element)
 queue : 1st in 1st out
- adding method .offer();
- removing method .poll();
- to show method .peak();
+        adding method .offer();
+        removing method .poll();
+        to show method .peak();
 stack : 1st in last out or last in 1st out.
- adding method .push();
- removing method .pop();
- to show method .peak();
+        adding method .push();
+        removing method .pop();
+        to show method .peak();
 priorty queue: doesn't maintain order.
- to add method.add(),.offer();
+               to add method.add(),.offer();
 
 
-Hashmap: to check with key and fast search. if you enter not exiting key it will return null. also not allowed to duplicate.
-if we try to duplicate it will update new value.
- add method .put();
- remove moethod .remove();
- .getOrDefault(value," ") if key value is exist t will return the value or it throw the message.
- .putIfAbsent(); if key is absent it will update the value in entered key.
+Hashmap: to find the values with key and fast search. if you enter non exiting key it will return null. also not allowed to duplicate.
+         if we try to duplicate the key it will update new value.
+        add method .put();
+        remove moethod .remove();
+        .getOrDefault(value," ") if key value is exist t will return the value or it throw the message.
+        .putIfAbsent(); if key is absent it will update the value in entered key.
  
 
  
