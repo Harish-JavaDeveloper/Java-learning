@@ -34,11 +34,11 @@ Set: does not allow duplicate. if any duplicates are exist it'll automatically r
 queue : 1st in 1st out
         adding method .offer();
         removing method .poll();
-        to show method .peak();
+        to show method .peek();
 stack : 1st in last out or last in 1st out.
         adding method .push();
         removing method .pop();
-        to show method .peak();
+        to show method .peek();
 priorty queue: doesn't maintain order.
                to add method.add(),.offer();
 
