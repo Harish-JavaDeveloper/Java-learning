@@ -49,7 +49,10 @@ Hashmap: to find the values with key and fast search. if you enter non exiting k
         remove moethod .remove();
         .getOrDefault(value," ") if key value is exist t will return the value or it throw the message.
         .putIfAbsent(); if key is absent it will update the value in entered key.
+Abstract : abstact method doesn't have public method. it has abstract method and normal method. and we access the abstract class
+          using extend keyword. and we can't extens abstact to abstract.
  
-
+Interface : it contains unimplemented method. we can use to another class using implement keyword. we can use more than one interface class
+           in another class.  we can connect one interface to another interface using extend keyword. it have default method.
  
  
