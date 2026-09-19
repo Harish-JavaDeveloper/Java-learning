@@ -8,6 +8,7 @@ Arrey : collection of data. it can be int,string,decimal values and letters or s
        .compare() - it s used to comapre two arrays lexographical method.
        .equal() - it is used to check two arrays are equal or not. it returns boolean values.
        .sort() - it is used to sort array by ascending order. we can sort middle of the array like Arrays.sort(arr,1,6); end-1
+       .fill() - it is used to fill the value in entire array. if you want to fill particular index Arrays.fill(arr,4,5)
 
 for Loop: for loop work flow is iteration basis. it will check the condition and sametime it will do increament operation.
 
