@@ -60,5 +60,5 @@ Interface : it contains unimplemented method. we can use to another class using 
            in another class.  we can connect one interface to another interface using extend keyword. it have default method.
 streams : streaming stage, intermediate, termnal
               map used to tranform the data. method reference is alternatve 
- 
- 
+               .foreach() we can print without sysout. 
+        
