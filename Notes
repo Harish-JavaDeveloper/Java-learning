@@ -62,7 +62,7 @@ streams : streaming stage, intermediate, termnal
               map used to tranform the data. method reference is alternatve 
                .foreach() we can print without sysout. 
 comarable : comparable is used to compare two arguments. but we can compare only one field at the time.we can't override the comparable               method.
-comparator : comparator s uder to compare the two arguments. we can compare instantly in main classs.
+comparator : comparator is used to compare the two arguments. we can compare instantly in main classs.
 
 mentod overloadng : we can use same method name. but we must give dfferent number of arguments.
         add(int a, int b), add(int a, int b,int c)
